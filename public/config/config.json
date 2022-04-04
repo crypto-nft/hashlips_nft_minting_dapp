@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x5eC0eEF8d5cBB3eD046C25179EF25B9111772052",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x5ec0eef8d5cbb3ed046c25179ef25b9111772052",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 7
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
+  "NFT_NAME": "Test Metadata Opensea",
+  "SYMBOL": "TMO",
+  "MAX_SUPPLY": 20,
   "WEI_COST": 75000000000000000,
   "DISPLAY_COST": 0.075,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test-metadata-opensea",
   "SHOW_BACKGROUND": true
 }
